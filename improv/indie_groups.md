@@ -2,6 +2,7 @@
 layout: page
 title: Improv Outside of Classes
 permalink: /improv/outside
+exclude_from_nav: true
 ---
 
 ## Making A Practice Group
